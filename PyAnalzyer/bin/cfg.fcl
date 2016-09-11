@@ -1,0 +1,4 @@
+PyAnalyzer : {
+    PyFilePath : "test.py"
+    StorageVariableName : "event_storage_manager"
+}
